@@ -172,4 +172,4 @@ Core libraries:
 
 ## Author
 
-Developed by Arunima Surendran (https://github.com/arunimakanavu)
+Developed by [Arunima Surendran](https://github.com/arunimakanavu)
